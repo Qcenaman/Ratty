@@ -1,1 +1,1 @@
-pynput>=1.7
+pynput>=1.8
